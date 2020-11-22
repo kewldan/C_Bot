@@ -1,4 +1,0 @@
-[22.11.2020 20:14:25] [ERROR] [C] Failed to write new build int, message: Empty path name is not legal. (Parameter 'path')
-[22.11.2020 20:14:25] [LOG] RPSaver enabled
-[22.11.2020 20:14:25] [LOG] Rest manager enabled
-[22.11.2020 20:14:27] [LOG] Bot is ready
