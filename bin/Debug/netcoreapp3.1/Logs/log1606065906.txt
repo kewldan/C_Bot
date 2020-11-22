@@ -1,0 +1,3 @@
+[22.11.2020 20:25:06] [ERROR] [LANG] Failed to load all text from file ./RU.json, message: Could not find file 'C:\Users\kewldan\Desktop\C_Bot\bin\Debug\netcoreapp3.1\RU.json'.
+[22.11.2020 20:25:06] [ERROR] [LANG] Failed to deserialize all text from file ./RU.json, message: Value cannot be null. (Parameter 'json')
+[22.11.2020 20:25:06] [FATAL ERROR] [C] config.txt not found

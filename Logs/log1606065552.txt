@@ -1,0 +1,7 @@
+[22.11.2020 20:19:12] [LOG] RPSaver enabled
+[22.11.2020 20:19:12] [LOG] Rest manager enabled
+[22.11.2020 20:19:13] [LOG] Bot is ready
+[22.11.2020 20:19:14] [LOG] [CH] Created message |!rp info|
+[22.11.2020 20:19:14] [LOG] a |info|
+[22.11.2020 20:19:14] [LOG] info
+[22.11.2020 20:19:14] [LOG] bb394205235037339648

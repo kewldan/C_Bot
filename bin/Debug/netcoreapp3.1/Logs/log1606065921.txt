@@ -1,0 +1,7 @@
+[22.11.2020 20:25:21] [ERROR] [LANG] Failed to load all text from file ./RU.json, message: Could not find file 'C:\Users\kewldan\Desktop\C_Bot\bin\Debug\netcoreapp3.1\RU.json'.
+[22.11.2020 20:25:21] [ERROR] [LANG] Failed to deserialize all text from file ./RU.json, message: Value cannot be null. (Parameter 'json')
+[22.11.2020 20:25:21] [LOG] RPSaver enabled
+[22.11.2020 20:25:21] [LOG] Rest manager enabled
+[22.11.2020 20:25:23] [LOG] Bot is ready
+[22.11.2020 20:25:27] [LOG] [CH] Created message |!rp info|
+[22.11.2020 20:25:27] [LOG] [RP] REGISTRY Avenger

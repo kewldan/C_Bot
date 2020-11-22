@@ -1,0 +1,3 @@
+[22.11.2020 20:14:48] [LOG] RPSaver enabled
+[22.11.2020 20:14:48] [LOG] Rest manager enabled
+[22.11.2020 20:14:50] [LOG] Bot is ready
