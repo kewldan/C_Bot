@@ -1,4 +1,0 @@
-[22.11.2020 20:21:37] [LOG] RPSaver enabled
-[22.11.2020 20:21:37] [LOG] Rest manager enabled
-[22.11.2020 20:21:38] [LOG] Bot is ready
-[22.11.2020 20:21:39] [LOG] [CH] Created message |!rp info|
